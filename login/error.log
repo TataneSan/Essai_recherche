@@ -1,0 +1,4 @@
+Error : SQLSTATE[HY000] [1040] Too many connections - /login/ at Tuesday 24th of August, 2021, 11:43:32 PM
+Error : SQLSTATE[HY000] [2006] MySQL server has gone away - /login/ at Wednesday 25th of August, 2021, 12:38:40 AM
+Error : SQLSTATE[HY000] [2006] MySQL server has gone away - /login/ at Wednesday 25th of August, 2021, 12:40:39 AM
+Error : SQLSTATE[HY000] [2006] MySQL server has gone away - /login/ at Wednesday 25th of August, 2021, 12:41:07 AM
